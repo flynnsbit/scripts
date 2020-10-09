@@ -1,5 +1,5 @@
 @echo off
-cd doom
+cd %%FOLDER variable from ExoDOSConverter%%
 
 
 IF EXIST setsound.exe goto :sound1
