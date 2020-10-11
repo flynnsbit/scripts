@@ -4,7 +4,7 @@ Palette.EXE --  Display all of the color and Blink options that you can
 Edit_AUT.BAT -- Edit the Autoexec.bat file on C:\
 
 Edit_TDL.BAT -- Edit the TDL.INI file for changing Total Dos Launcher.
-                Colors, VESA Modes, Enable/Disable Turbo options, directory
+                Colors, VESA Modes, Enable/Disable Turbo option for MiSTer, directory
                 locations, etc..
 
 Edit_CFG.BAT -- Edit the Config.sys file on C:\
