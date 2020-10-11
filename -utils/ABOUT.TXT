@@ -13,8 +13,10 @@ EMM.BAT -- Set the autoexec and config.sys to use EMM386 and reboot
 
 HIRAM.BAT -- Set the autoexec and config.sys to use HIRAM and reboot
 
-SPLASH.BAT -- Preview and Set 4 different Dos boot Splash screens made for MiSTer.  You can also disable the Splash screen as well.
+SPLASH.BAT -- Preview and Set 4 different Dos boot Splash screens made for MiSTer.  
+              You can also disable the Splash screen as well.
 
-RESTORE.BAT -- Restore all configuration files to the default that came with the image, in case you mess something up.
+RESTORE.BAT -- Restore all configuration files to the default that came with the image, 
+               in case you mess something up.
 
 
