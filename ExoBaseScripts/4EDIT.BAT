@@ -1,3 +1,3 @@
 @echo off
-edit launch.bat
+edit 1Start.bat
 
