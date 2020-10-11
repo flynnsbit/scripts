@@ -1,6 +1,5 @@
 @echo off
-cd doom
-
+cd %INJECT GAME PATH HERE%
 
 IF EXIST setsound.exe goto :sound1
 IF EXIST sound.exe goto :sound2
