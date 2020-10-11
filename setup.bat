@@ -24,7 +24,7 @@ goto :END
 
 :sound3
 call sound.com
-gotto :END
+goto :END
 
 :setup1
 call setup.exe
